@@ -5,19 +5,19 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
 
 ---
 
-[BuildCraft](https://minecraft.curseforge.com/projects/buildcraft)
++ [BuildCraft](https://minecraft.curseforge.com/projects/buildcraft)
 
-[Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/buildcraft)
++ [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/buildcraft)
 
-[Advanced Fishing](https://minecraft.curseforge.com/projects/advanced-fishing)
++ [Advanced Fishing](https://minecraft.curseforge.com/projects/advanced-fishing)
 
-[Advanced Finders](https://minecraft.curseforge.com/projects/advanced-finders)
++ [Advanced Finders](https://minecraft.curseforge.com/projects/advanced-finders)
 
-[Dependencia](https://minecraft.curseforge.com/projects/forgeendertech)
+  + ###### [Dependencia](https://minecraft.curseforge.com/projects/forgeendertech)
 
-[TreeCapitator](https://minecraft.curseforge.com/projects/treecapitator-port)
++ [TreeCapitator](https://minecraft.curseforge.com/projects/treecapitator-port)
 
-[SpawnCommands](https://minecraft.curseforge.com/projects/spawncommands-spawn-commands-teleport)
++ [SpawnCommands](https://minecraft.curseforge.com/projects/spawncommands-spawn-commands-teleport)
 
 ---
 
