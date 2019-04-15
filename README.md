@@ -12,7 +12,6 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
 + [Advanced Fishing](https://minecraft.curseforge.com/projects/advanced-fishing)
 
 + [Advanced Finders](https://minecraft.curseforge.com/projects/advanced-finders)
-
   + ###### [Dependencia](https://minecraft.curseforge.com/projects/forgeendertech)
 
 + [TreeCapitator](https://minecraft.curseforge.com/projects/treecapitator-port)
