@@ -1,8 +1,10 @@
 # MinecraftServer
 Info para mi server de Minecraft en Ateros.
 
+## [weesari.aternos.me](http://weesari.aternos.me)
+
 Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
-#[weesari.aternos.me](http://weesari.aternos.me)
+
 ---
 [BuildCraft](https://minecraft.curseforge.com/projects/buildcraft)
 
