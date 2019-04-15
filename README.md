@@ -2,7 +2,7 @@
 Info para mi server de Minecraft en Ateros.
 
 Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
-<h2></a>Server >> <a href="http://weesari.aternos.me">weesari.aternos.me</h1>
+	[weesari.aternos.me](http://weesari.aternos.me)
 	[BuildCraft](https://minecraft.curseforge.com/projects/buildcraft)
 	[Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/buildcraft)
 	[Advanced Fishing](https://minecraft.curseforge.com/projects/advanced-fishing)
