@@ -22,6 +22,12 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
 
   + ###### [Dependencia](https://minecraft.curseforge.com/projects/bibliotheca)
 
++ [MoreFurnaces](https://minecraft.curseforge.com/projects/more-furnaces)
+
+  + ###### [Dependencia](https://minecraft.curseforge.com/projects/cxlibrary)
+  
++ [MetalChests](https://minecraft.curseforge.com/projects/metalchests)
+
 ---
 
 [Link a Google Drive con los mods en un archivo.](https://drive.google.com/open?id=1sW-f010x11-Wdkgb6Wqnc0OeA3yZk1w1)
