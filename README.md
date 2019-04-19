@@ -18,10 +18,6 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
 
 + [SpawnCommands](https://minecraft.curseforge.com/projects/spawncommands-spawn-commands-teleport)
 
-+ [HammerTime](https://minecraft.curseforge.com/projects/hammer-time)
-
-  + ###### [Dependencia](https://minecraft.curseforge.com/projects/bibliotheca)
-
 + [MoreFurnaces](https://minecraft.curseforge.com/projects/more-furnaces)
 
   + ###### [Dependencia](https://minecraft.curseforge.com/projects/cxlibrary)
