@@ -37,7 +37,7 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
   + ###### [Dependencia 1](https://minecraft.curseforge.com/projects/codechicken-lib-1-8)
   + ###### [Dependencia 2](https://minecraft.curseforge.com/projects/forge-multipart-cbe)
   
-+ [https://minecraft.curseforge.com/projects/industrial-craft](IndustrialCraft)
++ [IndustrialCraft](https://minecraft.curseforge.com/projects/industrial-craft)
 
 
 
