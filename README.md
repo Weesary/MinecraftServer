@@ -35,7 +35,7 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
   
 + [IndustrialCraft](https://minecraft.curseforge.com/projects/industrial-craft)
 
-
++ [InventoryTweaks](https://minecraft.curseforge.com/projects/inventory-tweaks)
 
 + [TinkersConstruct](https://minecraft.curseforge.com/projects/tinkers-construct)
 
@@ -48,11 +48,8 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
   + ###### [Dependencia 3](https://minecraft.curseforge.com/projects/mrtjpcore)
 
 Partes del ProjectRed:  
-+ [World](https://minecraft.curseforge.com/projects/project-red-world)
-+ [Mechanical](https://minecraft.curseforge.com/projects/project-red-mechanical)
 + [Lighting](https://minecraft.curseforge.com/projects/project-red-lighting)
 + [Integration](https://minecraft.curseforge.com/projects/project-red-integration)
-+ [Fabrication](https://minecraft.curseforge.com/projects/project-red-fabrication)
 + [Compat](https://minecraft.curseforge.com/projects/project-red-compat)
 
 ---
