@@ -50,6 +50,9 @@ Partes del ProjectRed:
 + [Lighting](https://minecraft.curseforge.com/projects/project-red-lighting)
 + [Integration](https://minecraft.curseforge.com/projects/project-red-integration)
 + [Compat](https://minecraft.curseforge.com/projects/project-red-compat)
++ [Fabrication](https://minecraft.curseforge.com/projects/project-red-fabrication)
++ [World](https://minecraft.curseforge.com/projects/project-red-world)
++ [Mechanical](https://minecraft.curseforge.com/projects/project-red-mechanical)
 
 ---
 
