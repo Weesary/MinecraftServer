@@ -38,7 +38,8 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
 + [TinkersConstruct](https://minecraft.curseforge.com/projects/tinkers-construct)
 
   + ###### [Mantle](https://minecraft.curseforge.com/projects/mantle)
-
+  + ###### [MovedTooQuicklyFix](https://minecraft.curseforge.com/projects/mtqfix)
+  
 + [ProjectRedBase](https://minecraft.curseforge.com/projects/project-red-base)
 
   + ###### [Dependencia 1](https://minecraft.curseforge.com/projects/codechicken-lib-1-8)
