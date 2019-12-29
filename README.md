@@ -1,13 +1,13 @@
 # MinecraftServer
 
 ## [weesari.aternos.me](http://weesari.aternos.me)
-Versión de server utilizada: **Forge 1.12.2 (14.23.5.2825)**
+Versión de server utilizada: **Forge 1.12.2 (14.23.5.2847)**
 
 ---
 
 + [BuildCraft](https://minecraft.curseforge.com/projects/buildcraft)
 
-+ [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/buildcraft)
++ [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 + [Advanced Fishing](https://minecraft.curseforge.com/projects/advanced-fishing)
 
