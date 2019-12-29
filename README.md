@@ -14,7 +14,7 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2847)**
 + [Advanced Finders](https://minecraft.curseforge.com/projects/advanced-finders)
   + ###### [Dependencia](https://minecraft.curseforge.com/projects/forgeendertech)
 
-+ [TreeCapitator](https://minecraft.curseforge.com/projects/treecapitator-port)
++ [TreeCapitator](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated)
 
 + [SpawnCommands](https://minecraft.curseforge.com/projects/spawncommands-spawn-commands-teleport)
 
