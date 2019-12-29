@@ -12,9 +12,11 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2847)**
 + [Advanced Fishing](https://minecraft.curseforge.com/projects/advanced-fishing)
 
 + [Advanced Finders](https://minecraft.curseforge.com/projects/advanced-finders)
+
   + ###### [Dependencia](https://minecraft.curseforge.com/projects/forgeendertech)
 
 + [TreeCapitator](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated)
+
   + ###### [Dependencia](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 
 + [SpawnCommands](https://minecraft.curseforge.com/projects/spawncommands-spawn-commands-teleport)
@@ -24,6 +26,8 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2847)**
   + ###### [Dependencia](https://minecraft.curseforge.com/projects/cxlibrary)
   
 + [MetalChests](https://minecraft.curseforge.com/projects/metalchests)
+
+  + ###### [Dependencia](https://www.curseforge.com/minecraft/mc-mods/tbone/download/2748902)
 
 + [Chisel](https://minecraft.curseforge.com/projects/chisel)
 
