@@ -50,6 +50,8 @@ Versión de server utilizada: **Forge 1.12.2 (14.23.5.2847)**
   + ###### [Dependencia 1](https://minecraft.curseforge.com/projects/codechicken-lib-1-8)
   + ###### [Dependencia 2](https://minecraft.curseforge.com/projects/forge-multipart-cbe)
   + ###### [Dependencia 3](https://minecraft.curseforge.com/projects/mrtjpcore)
+  
++ [Landlust Furniture](https://www.curseforge.com/minecraft/mc-mods/landlust-furniture)
 
 Partes del ProjectRed:  
 + [Lighting](https://minecraft.curseforge.com/projects/project-red-lighting)
